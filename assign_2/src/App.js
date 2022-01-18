@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Employee from './Employee';
 function App() {
   return (
     <div className="App">
-    Happy Learning React
+      <header >
+          Employee Details
+      </header>
+      <Employee/>
     </div>
   );
 }

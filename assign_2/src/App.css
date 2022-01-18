@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+table {
+  margin: 1px auto;
+  border-spacing: 0;
+  border: 4px solid black;
+}
+
+table td, table th{
+  padding: 0.5rem;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+/* table {
+  margin: 1px auto;
+  border-spacing: 0;
+  border: 4px dashed green;
+}
+table th{
+    padding: 0.5rem;
+    background-color: cyan;
+  }
+table td{
+  border-bottom: 1px solid cyan;
+  border-right: 1px solid cyan;
+} */
