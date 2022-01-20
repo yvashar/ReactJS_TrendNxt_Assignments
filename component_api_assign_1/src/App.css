@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+button{
+  margin-bottom: 20px;
+}
+table {
+  margin: 1px auto;
+  border-spacing: 0;
+  border: 0.5px solid black;
+}
+
+table td, table th{
+  padding: 0.5rem;
+  border-bottom: 0.5px solid black;
+  border-right: 0.5px solid black;
+}
