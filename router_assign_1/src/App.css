@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+form{
+  width: 400px;
+  height: auto;
+}
+/* div{
+  position: relative;
+  top: 30px;
+  left: 10%;
+} */
+#movieId, #movieName, #actor, #actress, #lang{
+height: 50px;
+border: 1px solid;
+width: auto;
+padding-top: 25px;
+margin-bottom: 20px;
+padding-left: 30px;
+}
+
+label{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+button{
+  color:blue;
+  position: relative;
+  margin-left: 10%;
+  font-size: 20px;
+}
+
+
+span{
+  font-size:  20px;
+}
